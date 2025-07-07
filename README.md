@@ -63,5 +63,5 @@ A fully functional e-commerce application built with Vue.js and Pinia for state 
    ```bash
    npm run build
    ```
-[Live link](https://cheaprategallery.com)
+- **Live Frontend:** [Visit Site](https://cheaprategallery.com)
 
